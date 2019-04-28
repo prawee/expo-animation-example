@@ -2,7 +2,7 @@
  * @Author: Prawee Wongsa 
  * @Date: 2019-04-28 13:05:01 
  * @Last Modified by: Prawee Wongsa
- * @Last Modified time: 2019-04-28 13:07:46
+ * @Last Modified time: 2019-04-28 13:19:30
  */
 import React, { Component } from 'react';
 import { View } from 'react-native';
@@ -10,7 +10,7 @@ import { View } from 'react-native';
 class Ball extends Component {
   render() {
     return (
-      <View style={styles.ball}></View>
+      <View style={styles.ball} />
     );
   }  
 }
