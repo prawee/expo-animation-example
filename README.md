@@ -28,3 +28,8 @@ rnderNoMoreCards  function          Returns JSX to show when no more cards exist
 data              array of objects  List of records to use for cards 
 onSwipeRight      function          Called when user swipes right on an item 
 onSwipeLeft       function          Called when user swipes left on an item 
+
+## Gesture System
+1. What are we touching? 
+2. What component handles touch? 
+3. How is the guesture changing?
